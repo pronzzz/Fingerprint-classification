@@ -3,9 +3,9 @@
 ## Project Summary
 This project aims to develop an automated fingerprint classification system using the Socofing dataset, which includes a diverse set of fingerprint images. By leveraging machine learning techniques, we will categorize fingerprints into distinct classes (e.g., arches, loops, whorls) to enhance identification accuracy and speed in security applications. The project will be structured into three main stages: problem identification and characterization, data analysis and modeling, and evaluation and optimization of algorithms.
 
-### Stage 1: Problem Identification and Characterization (Assignment 1: Parts A1-A3)
+### Stage 1: Problem Identification and Characterization (Parts A1-A3)
 
-#### A1: Identify & Define Your PRML Project
+#### A1: Identify & Define the PRML Project
 Fingerprint classification is a classic pattern recognition problem, as it involves identifying unique patterns within fingerprint images and categorizing them. This computational model is crucial for various applications, including biometric security systems, law enforcement, and personal authentication. The motivation for this project lies in the need for a reliable, automated fingerprint classification system that can handle large volumes of data efficiently. A PRML solution is essential to improve the accuracy and speed of identification, enabling timely decision-making in security contexts.
 
 #### A2: Investigate and Characterize the Problem
@@ -20,7 +20,7 @@ We will validate the models by splitting the Socofing dataset into training and 
 #### A3: Explain Why the Proposed Project Qualifies as a Pattern Recognition and Machine Learning Problem
 This project qualifies as a pattern recognition and machine learning endeavor due to its focus on classifying complex visual data into predefined categories. By employing various algorithms—such as Decision Trees, Support Vector Machines, and Convolutional Neural Networks—we will extract meaningful features from fingerprint images and train models to recognize and classify these patterns. The ultimate goal is to create a model that generalizes well to new data, addressing core challenges in the fields of pattern recognition and machine learning.
 
-### Stage 2: Data Analysis and Modeling (Assignment 2: Parts B1-B5)
+### Stage 2: Data Analysis and Modeling (Parts B1-B5)
 
 #### B1: Select a Dataset
 We will utilize the Socofing dataset, which consists of a rich collection of fingerprint images. Following the "10 times rule," we will ensure that our dataset size is adequate for the complexity of the modeling problem.
@@ -41,7 +41,7 @@ We will select 3-4 algorithms based on their applicability to image classificati
 #### B5: Implement Algorithms
 Using the chosen algorithms, we will implement the classification models following the structure provided in class. We will evaluate their performance through accuracy assessments, generating classification reports to identify the best-performing model.
 
-### Stage 3: Evaluation and Optimization (Assignment 3: Parts C1-C8)
+### Stage 3: Evaluation and Optimization (Parts C1-C8)
 
 #### C1: Evaluate Algorithms
 We will divide the data into training and test sets (e.g., 80-20 split) and design a test harness to assess the selected algorithms. Cross-validation will be employed to check for overfitting and ensure model robustness.

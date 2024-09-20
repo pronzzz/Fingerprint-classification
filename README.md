@@ -1,8 +1,5 @@
 # Fingerprint Classification Using the Socofing Dataset
 
-## Project Title:
-Fingerprint Classification Using the Socofing Dataset
-
 ## Project Summary
 This project aims to develop an automated fingerprint classification system using the Socofing dataset, which includes a diverse set of fingerprint images. By leveraging machine learning techniques, we will categorize fingerprints into distinct classes (e.g., arches, loops, whorls) to enhance identification accuracy and speed in security applications. The project will be structured into three main stages: problem identification and characterization, data analysis and modeling, and evaluation and optimization of algorithms.
 

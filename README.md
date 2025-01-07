@@ -1,4 +1,3 @@
-![Uploading fingerprint classification.png…]()
 # Fingerprint Classification Using the Socofing Dataset
 
 ## Project Summary
